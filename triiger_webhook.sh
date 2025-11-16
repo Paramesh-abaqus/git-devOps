@@ -1,2 +1,3 @@
 ls -lrt
-echo "File tirgger git hub webhook"
+echo "File trigger git hub webhook"
+echo "updating the trigger file"
